@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "voz1SgwZQ6jOu5NmrzyO+NyWgCXYXmIsV2wSVLDxWxyvx92BVAHVNSjIACPhf9AYdfp1vFUfy49GMH3X7mEvBg==",
+  "dgSpecHash": "v15p6x41V0DvpzP8zPlnY+YUKLG989vBvX97IGlHcfw2Ma1JsBSYFJFZ0n+fNM6LqfIq1J0CcyT0Vo375qnEMA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\stefa\\OneDrive\\Documentos\\BOOTCAMP .NET\\Discoteque\\Discoteque.API\\Discoteque.API.csproj",
+  "projectFilePath": "C:\\Users\\stefa\\OneDrive\\Documentos\\BOOTCAMP .NET\\Discoteque\\Discoteque.API\\Discoteque.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stefa\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\stefa\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

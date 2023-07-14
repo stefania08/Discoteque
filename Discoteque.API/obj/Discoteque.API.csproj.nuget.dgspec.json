@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\stefa\\OneDrive\\Documentos\\BOOTCAMP .NET\\Discoteque\\Discoteque.API\\Discoteque.API.csproj": {}
+    "C:\\Users\\stefa\\OneDrive\\Documentos\\BOOTCAMP .NET\\Discoteque\\Discoteque.API\\Discoteque.API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\stefa\\OneDrive\\Documentos\\BOOTCAMP .NET\\Discoteque\\Discoteque.API\\Discoteque.API.csproj": {
+    "C:\\Users\\stefa\\OneDrive\\Documentos\\BOOTCAMP .NET\\Discoteque\\Discoteque.API\\Discoteque.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\stefa\\OneDrive\\Documentos\\BOOTCAMP .NET\\Discoteque\\Discoteque.API\\Discoteque.API.csproj",
+        "projectUniqueName": "C:\\Users\\stefa\\OneDrive\\Documentos\\BOOTCAMP .NET\\Discoteque\\Discoteque.API\\Discoteque.API.csproj",
         "projectName": "Discoteque.API",
-        "projectPath": "c:\\Users\\stefa\\OneDrive\\Documentos\\BOOTCAMP .NET\\Discoteque\\Discoteque.API\\Discoteque.API.csproj",
+        "projectPath": "C:\\Users\\stefa\\OneDrive\\Documentos\\BOOTCAMP .NET\\Discoteque\\Discoteque.API\\Discoteque.API.csproj",
         "packagesPath": "C:\\Users\\stefa\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\stefa\\OneDrive\\Documentos\\BOOTCAMP .NET\\Discoteque\\Discoteque.API\\obj\\",
+        "outputPath": "C:\\Users\\stefa\\OneDrive\\Documentos\\BOOTCAMP .NET\\Discoteque\\Discoteque.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\stefa\\AppData\\Roaming\\NuGet\\NuGet.Config"
